@@ -35,7 +35,7 @@ a:hover {
   padding: 50px 20px;
   padding-top: 100px;
   display: flex;
-  background-image: linear-gradient(90deg, rgba(0,227,194,1) 0%, rgba(205,242,4,1) 47%, rgba(179,0,255,1) 100%);
+  background-image: linear-gradient(90deg, rgba(0,227,194,1) 0%, rgba(179,0,255,1) 100%);
   display: flex;
 }
 @media screen and (max-width: 768px) {
@@ -50,7 +50,7 @@ a:hover {
   width: 100%;
   min-height: 460px;
   margin: auto;
-  box-shadow: 0px 8px 60px -10px rgba(13, 28, 39, 0.6);
+  box-shadow: 0px 8px 60px -10px rgba(209, 24, 226, 0.6);
   background: #fff;
   border-radius: 12px;
   max-width: 700px;
@@ -79,7 +79,7 @@ a:hover {
   overflow: hidden;
   position: relative;
   z-index: 4;
-  box-shadow: 0px 5px 50px 0px #00e3c2, 0px 0px 0px 7px rgba(107, 74, 255, 0.5);
+  box-shadow: 0px 5px 50px 0px #e32ee9, 0px 0px 0px 7px rgba(226, 29, 121, 0.5);
  }
 
 @media screen and (max-width: 576px) {
